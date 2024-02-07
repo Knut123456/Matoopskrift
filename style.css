@@ -1,0 +1,81 @@
+ @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+
+h1  {
+    font-size: 4rem;
+    color: rgb(255, 0, 0);
+    font-family: 'Nabla', cursive;
+    }
+
+p   {
+    font-size: 2rem;
+    font-family: 'Fuggles', cursive;
+    font-family: 'Nabla', cursive;
+    font-family: 'Pacifico', cursive;
+    }      
+
+h2  {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    }
+
+h3  {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    }
+
+ul  {           
+    line-height: 2;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+ol  { 
+    line-height: 2;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+ a:link, a:visited      
+        {
+        background-color: white;
+        color: rgb(127, 44, 44);
+        border: 1px solid blue;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        }
+    
+a:hover, a:active   
+    {
+    background-color: rgb(216, 193, 16);
+    color: white;
+    }     
+
+body    {
+        background-color: rgb(217, 205, 205);
+        }
+.gronnFarge
+        {
+        color: rgb(10, 243, 52);
+        font-style: italic;
+        }
+         
+.bloFarge
+    {
+    color: rgba(16, 69, 149, 0.854);
+    font-style: oblique;
+    }
+
+#logo
+    {
+    color: brown; 
+    text-align: center; 
+   text-shadow: rgb(105, 24, 24);
+    }
+
+.divFarge 
+        {
+	    border: 2px solid rgb(23, 217, 19);
+        width: max-content;
+        padding: 1rem;
+        }
